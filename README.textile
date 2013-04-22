@@ -4,6 +4,6 @@ p. Generates and prints out HTML markup from given Textile markup. Uses the Text
 
 h2. Changelog
 
-h3. v0.1.0 - upcoming
+h3. Version 0.1.0 - upcoming
 
 * Initial release.
