@@ -14,12 +14,6 @@
  * http://www.gnu.org/licenses/gpl-2.0.html
  */
 
-	new rah_terminal__textile();
-
-/**
- * Textile module.
- */
-
 class rah_terminal__textile
 {
 	/**
@@ -55,3 +49,5 @@ class rah_terminal__textile
 		return $textile->TextileThis($markup);
 	}
 }
+
+new rah_terminal__textile();
