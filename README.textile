@@ -2,6 +2,11 @@ h1. Textile module for rah_terminal
 
 p. Generates and prints out HTML markup from given Textile markup. Uses the Textile class included with your Textpattern installation.
 
+h2. Requirements
+
+* Textpattern 4.6-dev
+* Rah_terminal 0.1.0
+
 h2. Changelog
 
 h3. Version 0.1.0 - upcoming
