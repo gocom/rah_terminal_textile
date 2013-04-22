@@ -45,8 +45,7 @@ class rah_terminal__textile
 
 	public function process($markup)
 	{
-		include_once txpath.'/lib/classTextile.php';
-		$textile = new Textile(get_pref('doctype'));
+		$textile = new Textpattern_Textile_Parser();
 		return $textile->TextileThis($markup);
 	}
 }
