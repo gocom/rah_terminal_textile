@@ -20,6 +20,6 @@
     },
     "require": {
         "php": ">=5.2.0",
-        "rah/rah_terminal": "master-dev"
+        "rah/rah_terminal": "dev-master"
     }
 }
