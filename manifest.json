@@ -1,5 +1,5 @@
 {
-	"name"        : "rah_terminal__textile",
+	"name"        : "rah_terminal_textile",
 	"description" : "Textile module for rah_terminal",
 	"version"     : "0.1.0",
 	"type"        : 4,
