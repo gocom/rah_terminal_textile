@@ -5,10 +5,10 @@ p. Generates and prints out HTML markup from given Textile markup. Uses the Text
 h2. Requirements
 
 * Textpattern 4.6-dev
-* Rah_terminal 0.1.0
+* "Rah_terminal":https://github.com/gocom/rah_terminal 0.1.0
 
 h2. Changelog
 
-h3. Version 0.1.0 - upcoming
+h3. Version 0.1.0 - 2013/04/24 - "Download":http://rahforum.biz/d/rah_terminal_textile_v0.1.0_zip.txt
 
 * Initial release.
