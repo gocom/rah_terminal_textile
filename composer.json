@@ -20,7 +20,7 @@
         "files": []
     },
     "require": {
-    	"textpattern/lock": ">=4.6.*@dev",
+    	"textpattern/lock": "4.6.*@dev,>=4.6.0",
         "textpattern/installer": "*@dev",
         "rah/rah_terminal": "0.1.*"
     }
