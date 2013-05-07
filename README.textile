@@ -1,5 +1,7 @@
 h1. Textile module for rah_terminal
 
+p. "Packagist":https://packagist.org/packages/rah/rah_terminal_textile | "Twitter":http://twitter.com/gocom | "Donate":http;//rahforum.biz/donate/rah_terminal_textile
+
 p. Generates and prints out HTML markup from given Textile markup. Uses the Textile class included with your Textpattern installation.
 
 h2. Installing
