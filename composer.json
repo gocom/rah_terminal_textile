@@ -21,7 +21,7 @@
     },
     "require": {
     	"textpattern/lock": "4.6.*@dev,>=4.6.0",
-        "textpattern/installer": "*@dev",
+        "textpattern/installer": "*",
         "rah/rah_terminal": "0.1.*"
     }
 }
