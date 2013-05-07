@@ -4,6 +4,8 @@ p. Generates and prints out HTML markup from given Textile markup. Uses the Text
 
 h2. Installing
 
+p. Using "Composer":http://getcomposer.org:
+
 bc. $ composer.phar require rah/rah_terminal_textile
 
 h2. Requirements
